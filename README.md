@@ -50,7 +50,7 @@ $ pip install mechanize
 
 $ git clone https://github.com/CodeXz01/Codexz-V1
 
-$cd CodeXz-V1
+$cd Codexz-V1
 
 $git pull
 
