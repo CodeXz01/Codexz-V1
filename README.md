@@ -54,7 +54,7 @@ $cd Codexz-V1
 
 $git pull
 
-$python cail.py
+$python ibd.py
 
 
 
